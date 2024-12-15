@@ -1,7 +1,5 @@
 # Resume_Categorization_Application
 
-Key Insights for [Project 36 : Resume Categorization Using Machine Learning](https://www.youtube.com/watch?v=JKlX_o0iDSA) by [Merlin AI](https://merlin.foyer.work/)
-
 **Overview of Resume Categorization Project**  
 - The project focuses on categorizing resumes using Python and machine learning techniques.  
 - The application allows users to upload resumes in PDF format and categorize them based on job roles such as Java Developer, Data Scientist, and Business Analyst.  
