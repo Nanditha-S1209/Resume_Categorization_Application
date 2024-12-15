@@ -1,7 +1,5 @@
 # Resume_Categorization_Application
 
-Essay for [Project 36 : Resume Categorization Using Machine Learning](https://www.youtube.com/watch?v=JKlX_o0iDSA) by [Merlin AI](https://merlin.foyer.work/)
-
 **Introduction to Resume Categorization**
 
 In the digital age, effective job matching has become increasingly reliant on technology. One innovative solution is the use of machine learning for resume categorization, which streamlines the recruitment process by automatically classifying resumes into relevant job categories. This essay explores the functionality and implementation of a resume categorization application using Python and machine learning.
