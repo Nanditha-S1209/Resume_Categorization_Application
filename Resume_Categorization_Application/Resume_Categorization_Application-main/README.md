@@ -2,7 +2,7 @@
 
 **Introduction to Resume Categorization**
 
-In the digital age, effective job matching has become increasingly reliant on technology. One innovative solution is the use of machine learning for resume categorization, which streamlines the recruitment process by automatically classifying resumes into relevant job categories. This essay explores the functionality and implementation of a resume categorization application using Python and machine learning.
+In the digital age, effective job matching has become increasingly reliant on technology. One innovative solution is the use of machine learning for resume categorization, which streamlines the recruitment process by automatically classifying resumes into relevant job categories. 
 
 **Application Overview**
 
